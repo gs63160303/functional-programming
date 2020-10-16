@@ -1,0 +1,1 @@
+[Navodila](https://lkrv.gitlab.io/funkcijsko-programiranje/00-instructions.html)
